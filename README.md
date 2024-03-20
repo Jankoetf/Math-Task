@@ -7,4 +7,4 @@ Here is the main code:
 
 
 - **results for the Q1**
-
+<img src="pictures_task/Q1.PNG" alt="Alt Text" width="312*2" height="312*2">
