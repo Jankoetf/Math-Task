@@ -15,18 +15,23 @@ Task text: 📜📃
 
 so probabilities are p1 = 0.2, p2 = 0.24, p3 = 0.28, p4 = 0.32
 
-formula for the **Q1**:
+formulas for the **Q1**:
 
 <img src="pictures_task/Eq1.png" alt="Alt Text" width="312*2" height="312*2">
 
-### result: **E[W] = 1.8432**
+Where P(W) is:
+
+
+<img src="pictures_task/Eq2.png" alt="Alt Text" width="312*2" height="312*2">
+
+### result for the Q1: **E[W] = 1.8432**
 
 <br><br><br>
 
 #  ** Results for the Q2 **
 <img src="pictures_task/Q21.PNG" alt="Alt Text" width="312*2" height="312*2">
 
-### result: **E[w] = 10.128**
+### result for the Q2: **E[w] = 10.128**
 
 <br><br>
 
