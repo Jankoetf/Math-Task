@@ -17,7 +17,7 @@ so probabilities are p1 = 0.2, p2 = 0.24, p3 = 0.28, p4 = 0.32
 
 formula for the **Q1**:
 
-<img src="pictures_task/formula.PNG" alt="Alt Text" width="312*2" height="312*2">
+<img src="pictures_task/Eq1.png" alt="Alt Text" width="312*2" height="312*2">
 
 ### result: **E[W] = 1.8432**
 
