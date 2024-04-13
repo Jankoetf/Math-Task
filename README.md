@@ -5,7 +5,7 @@ Here is the main code: 🏹
 🏹
 
 Task text: 📜📃
-[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/Math_Assignment_(1).pdf)
+[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/MathAssignment.pdf)
 📜📃
 
 <br> <br><br>
