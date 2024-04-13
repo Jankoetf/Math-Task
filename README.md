@@ -1,8 +1,12 @@
 # Math-Task
 
 Here is the main code: 🏹
-[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
+[Notebook](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
 🏹
+
+for the task: 📜📃
+[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/Math_Assignment(1))
+📜📃
 
 <br> <br><br>
 
