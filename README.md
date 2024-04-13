@@ -4,8 +4,8 @@ Here is the main code: 🏹
 [Notebook](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
 🏹
 
-for the task: 📜📃
-[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/Math_Assignment(1))
+Task text: 📜📃
+[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/Math_Assignment_(1).pdf)
 📜📃
 
 <br> <br><br>
